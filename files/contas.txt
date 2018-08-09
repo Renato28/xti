@@ -1,0 +1,3 @@
+Renato;1500.0
+Denise;2500.0
+Marcos;1200.0
